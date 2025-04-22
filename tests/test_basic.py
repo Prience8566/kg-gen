@@ -2,6 +2,8 @@ from src.kg_gen import KGGen
 import os
 from dotenv import load_dotenv
 
+# 添加一行注释
+# 添加两行注释
 if __name__ == "__main__":
   # Load environment variables
   load_dotenv()
